@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="DevRadar" title="#DevRadar" src=".github/devradar.svg" width="250px" />
+</h1>
+
 # Semana OmniStack 10.0 da Rocketseat :rocket:
 
 ## Projeto
